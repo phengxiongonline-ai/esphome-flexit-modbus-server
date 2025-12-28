@@ -7,7 +7,7 @@
 #include "esphome/core/log.h"
 #include "esp_log.h"
 #include "esphome.h"
-#include "ModbusRTUServer.h"
+
 
 #define MODBUS_DISABLE_READ_INPUT_REGISTERS
 #define MODBUS_DISABLE_WRITE_MULTIPLE_COILS
